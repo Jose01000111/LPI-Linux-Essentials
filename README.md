@@ -56,7 +56,7 @@ Each row includes:
 |----------|-------------|---------|
 | [**4.1 Choosing an Operating System**](https://github.com/Jose01000111/4.1-Choosing-an-Operating-System.git) | Windows/macOS/Linux differences, lifecycle. | — |
 | [**4.2 Understanding Computer Hardware**](https://github.com/Jose01000111/4.2-Understanding-Computer-Hardware-.git) | CPUs, RAM, disks, partitions, device naming. | [Lab](https://github.com/Jose01000111/Labbing-Instructions-4.2-Understanding-Computer-Hardware.git)|
-| [**4.3 Where Data is Stored**](notes/4.3.md) | System dirs, logs, /proc, /dev, memory tools. | [Lab](labs/4.3.md) |
+| [**4.3 Where Data is Stored**](https://github.com/Jose01000111/4.3-Where-Data-is-Stored.git) | System dirs, logs, /proc, /dev, memory tools. | [Lab](https://github.com/Jose01000111/Labbing-Instructions-4.3-Where-Data-is-Stored.git) |
 | [**4.4 Your Computer on the Network**](notes/4.4.md) | IP tools, DNS config, ping/host, IPv4/IPv6. | [Lab](labs/4.4.md) |
 
 ---
