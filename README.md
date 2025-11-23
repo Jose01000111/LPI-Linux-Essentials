@@ -36,7 +36,7 @@ Each row includes:
 | [**2.1 Command Line Basics**](https://github.com/Jose01000111/2.1-Command-Line-Basics.git) | Shell syntax, variables, quoting. | [Lab](https://github.com/Jose01000111/Lab-Instructions-2.1-Command-Line-Basics.git) |
 | [**2.2 Using the Command Line to Get Help**](https://github.com/Jose01000111/2.2-Using-the-Command-Line-to-Get-Help.git) | man, info, locate, reading docs. | [Lab](https://github.com/Jose01000111/Lab-Instructions-2.2-Using-the-Command-Line-to-Get-Help.git) |
 | [**2.3 Using Directories and Listing Files**](https://github.com/Jose01000111/2.3-Using-Directories-and-Listing-Files.git) | Navigation, ls options, paths, hidden items. | [Lab](https://github.com/Jose01000111/-Lab-Instructions-2.3-Using-Directories-and-Listing-Files-.git) |
-| [**2.4 Creating, Moving and Deleting Files**](notes/2.4.md) | mv, cp, rm, mkdir, rmdir, globbing. | [Lab](labs/2.4.md) |
+| [**2.4 Creating, Moving and Deleting Files**](https://github.com/Jose01000111/2.4-Creating-Moving-and-Deleting-Files.git) | mv, cp, rm, mkdir, rmdir, globbing. | [Lab](https://github.com/Jose01000111/Lab-Instructions-2.4-Creating-Moving-and-Deleting-Files.git) |
 
 ---
 
@@ -44,7 +44,7 @@ Each row includes:
 
 | Objective | Description | Labbing |
 |----------|-------------|---------|
-| [**3.1 Archiving Files on the Command Line**](notes/3.1.md) | tar, gzip/bzip2/xz, zip/unzip usage. | [Lab](labs/3.1.md) |
+| [**3.1 Archiving Files on the Command Line**](https://github.com/Jose01000111/3.1-Archiving-Files-on-the-Command-Line.git) | tar, gzip/bzip2/xz, zip/unzip usage. | [Lab](https://github.com/Jose01000111/Lab-Instructions-3.1-Archiving-Files-on-the-Command-Line.git) |
 | [**3.2 Searching and Extracting Data from Files**](notes/3.2.md) | grep, head/tail, sort, cut, wc, pipes/redirects. | [Lab](labs/3.2.md) |
 | [**3.3 Turning Commands into a Script**](notes/3.3.md) | Scripting basics, loops, variables, shebang. | [Lab](labs/3.3.md) |
 
