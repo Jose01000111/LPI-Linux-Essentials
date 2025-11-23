@@ -46,7 +46,7 @@ Each row includes:
 |----------|-------------|---------|
 | [**3.1 Archiving Files on the Command Line**](https://github.com/Jose01000111/3.1-Archiving-Files-on-the-Command-Line.git) | tar, gzip/bzip2/xz, zip/unzip usage. | [Lab](https://github.com/Jose01000111/Lab-Instructions-3.1-Archiving-Files-on-the-Command-Line.git) |
 | [**3.2 Searching and Extracting Data from Files**](https://github.com/Jose01000111/3.2-Searching-and-Extracting-Data-from-Files.git) | grep, head/tail, sort, cut, wc, pipes/redirects. | [Lab](https://github.com/Jose01000111/Lab-Instructions-3.2-Searching-and-Extracting-Data-from-Files.git) |
-| [**3.3 Turning Commands into a Script**](notes/3.3.md) | Scripting basics, loops, variables, shebang. | [Lab](labs/3.3.md) |
+| [**3.3 Turning Commands into a Script**](https://github.com/Jose01000111/3.3-Turning-Commands-into-a-Script.git) | Scripting basics, loops, variables, shebang. | [Lab](https://github.com/Jose01000111/Lab-Instructions-3.3-Turning-Commands-into-a-Script.git) |
 
 ---
 
