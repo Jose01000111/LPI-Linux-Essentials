@@ -23,7 +23,7 @@ Each row includes:
 | Objective | Description | Labbing |
 |----------|-------------|---------|
 | [**1.1 Linux Evolution and Popular Operating Systems**](https://github.com/Jose01000111/1.1-Linux-Evolution-and-Major-Operating-Systems.git) | Distro families, embedded systems, cloud usage. | - |
-| [**1.2 Major Open Source Applications**](https://github.com/Jose01000111/1.2-Major-Open-Source-Applications.git) | Desktop apps, server apps, languages, package tools. | [Lab](labs/1.2.md) |
+| [**1.2 Major Open Source Applications**](https://github.com/Jose01000111/1.2-Major-Open-Source-Applications.git) | Desktop apps, server apps, languages, package tools. | [Lab](https://github.com/Jose01000111/Lab-Instructions-1.2-Major-Open-Source-Applications.git) |
 | [**1.3 Open Source Software and Licensing**](notes/1.3.md) | Licensing types, FSF/OSI, FOSS terms. | — |
 | [**1.4 ICT Skills and Working in Linux**](notes/1.4.md) | Desktop basics, CLI intro, cloud/virtualization basics. | [Lab](labs/1.4.md) |
 
