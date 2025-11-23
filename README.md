@@ -72,5 +72,4 @@ Each row includes:
 
 ---
 
-# 📁 Recommended Repo Structure
 
