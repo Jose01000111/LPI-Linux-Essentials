@@ -65,7 +65,7 @@ Each row includes:
 
 | Objective | Description | Labbing |
 |----------|-------------|---------|
-| [**5.1 Basic Security and Identifying User Types**](notes/5.1.md) | Root vs standard users, system accounts. | [Lab](labs/5.1.md) |
+| [**5.1 Basic Security and Identifying User Types**](https://github.com/Jose01000111/5.1---Basic-Security-and-Identifying-User-Types-.git) | Root vs standard users, system accounts. | [Lab](https://github.com/Jose01000111/Lab-Instructions-5.1-Basic-Security-and-Identifying-User-Types.git) |
 | [**5.2 Creating Users and Groups**](notes/5.2.md) | useradd, passwd, groupadd, account files. | [Lab](labs/5.2.md) |
 | [**5.3 Managing File Permissions and Ownership**](notes/5.3.md) | chmod, chown, ls -l, permission bits. | [Lab](labs/5.3.md) |
 | [**5.4 Special Directories and Files**](notes/5.4.md) | /tmp, sticky bit, symlinks, special dirs. | [Lab](labs/5.4.md) |
