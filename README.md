@@ -35,7 +35,7 @@ Each row includes:
 |----------|-------------|---------|
 | [**2.1 Command Line Basics**](https://github.com/Jose01000111/2.1-Command-Line-Basics.git) | Shell syntax, variables, quoting. | [Lab](https://github.com/Jose01000111/Lab-Instructions-2.1-Command-Line-Basics.git) |
 | [**2.2 Using the Command Line to Get Help**](https://github.com/Jose01000111/2.2-Using-the-Command-Line-to-Get-Help.git) | man, info, locate, reading docs. | [Lab](https://github.com/Jose01000111/Lab-Instructions-2.2-Using-the-Command-Line-to-Get-Help.git) |
-| [**2.3 Using Directories and Listing Files**](notes/2.3.md) | Navigation, ls options, paths, hidden items. | [Lab](labs/2.3.md) |
+| [**2.3 Using Directories and Listing Files**](https://github.com/Jose01000111/2.3-Using-Directories-and-Listing-Files.git) | Navigation, ls options, paths, hidden items. | [Lab](https://github.com/Jose01000111/-Lab-Instructions-2.3-Using-Directories-and-Listing-Files-.git) |
 | [**2.4 Creating, Moving and Deleting Files**](notes/2.4.md) | mv, cp, rm, mkdir, rmdir, globbing. | [Lab](labs/2.4.md) |
 
 ---
