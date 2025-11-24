@@ -67,8 +67,8 @@ Each row includes:
 |----------|-------------|---------|
 | [**5.1 Basic Security and Identifying User Types**](https://github.com/Jose01000111/5.1---Basic-Security-and-Identifying-User-Types-.git) | Root vs standard users, system accounts. | [Lab](https://github.com/Jose01000111/Lab-Instructions-5.1-Basic-Security-and-Identifying-User-Types.git) |
 | [**5.2 Creating Users and Groups**](https://github.com/Jose01000111/5.2-Creating-Users-and-Groups-.git) | useradd, passwd, groupadd, account files. | [Lab](https://github.com/Jose01000111/Lab-Instructions-5.2-Creating-Users-and-Groups.git) |
-| [**5.3 Managing File Permissions and Ownership**](https://github.com/Jose01000111/5.3-Managing-File-Permissions-and-Ownership.git) | chmod, chown, ls -l, permission bits. | [Lab](labs/5.3.md) |
-| [**5.4 Special Directories and Files**](notes/5.4.md) | /tmp, sticky bit, symlinks, special dirs. | [Lab](labs/5.4.md) |
+| [**5.3 Managing File Permissions and Ownership**](https://github.com/Jose01000111/5.3-Managing-File-Permissions-and-Ownership.git) | chmod, chown, ls -l, permission bits. | [Lab](https://github.com/Jose01000111/Lab-Instructions-5.3-Managing-File-Permissions-and-Ownership.git) |
+| [**5.4 Special Directories and Files**](https://github.com/Jose01000111/5.4-Special-Directories-and-Files.git) | /tmp, sticky bit, symlinks, special dirs. | [Lab](https://github.com/Jose01000111/Lab-Instructions-5.4-Special-Directories-and-Files.git) |
 
 ---
 
