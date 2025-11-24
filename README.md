@@ -72,4 +72,12 @@ Each row includes:
 
 ---
 
+## 🐧 Master Lab – LPI Linux Essentials
+
+This repository is a comprehensive hands-on lab designed to cover all objectives of the **LPI Linux Essentials Certification**. Work through practical exercises to build foundational Linux skills, including command-line usage, file management, scripting, user/group management, and basic security.
+
+Access the full lab here: [LPI Linux Essentials Certification Lab](https://github.com/Jose01000111/LPI-Linux-Essentials-Certification-Lab.git)
+
+---
+
 
