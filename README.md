@@ -20,7 +20,7 @@ Each row includes:
 
 ## **Topic 1: The Linux Community and a Career in Open Source**
 
-| Objective | Description | Labbing |
+| Objective Notes | Description | Labbing |
 |----------|-------------|---------|
 | [**1.1 Linux Evolution and Popular Operating Systems**](https://github.com/Jose01000111/1.1-Linux-Evolution-and-Major-Operating-Systems.git) | Distro families, embedded systems, cloud usage. | - |
 | [**1.2 Major Open Source Applications**](https://github.com/Jose01000111/1.2-Major-Open-Source-Applications.git) | Desktop apps, server apps, languages, package tools. | [Lab](https://github.com/Jose01000111/Lab-Instructions-1.2-Major-Open-Source-Applications.git) |
@@ -31,7 +31,7 @@ Each row includes:
 
 ## **Topic 2: Finding Your Way on a Linux System**
 
-| Objective | Description | Labbing |
+| Objective Notes | Description | Labbing |
 |----------|-------------|---------|
 | [**2.1 Command Line Basics**](https://github.com/Jose01000111/2.1-Command-Line-Basics.git) | Shell syntax, variables, quoting. | [Lab](https://github.com/Jose01000111/Lab-Instructions-2.1-Command-Line-Basics.git) |
 | [**2.2 Using the Command Line to Get Help**](https://github.com/Jose01000111/2.2-Using-the-Command-Line-to-Get-Help.git) | man, info, locate, reading docs. | [Lab](https://github.com/Jose01000111/Lab-Instructions-2.2-Using-the-Command-Line-to-Get-Help.git) |
@@ -42,7 +42,7 @@ Each row includes:
 
 ## **Topic 3: The Power of the Command Line**
 
-| Objective | Description | Labbing |
+| Objective Notes | Description | Labbing |
 |----------|-------------|---------|
 | [**3.1 Archiving Files on the Command Line**](https://github.com/Jose01000111/3.1-Archiving-Files-on-the-Command-Line.git) | tar, gzip/bzip2/xz, zip/unzip usage. | [Lab](https://github.com/Jose01000111/Lab-Instructions-3.1-Archiving-Files-on-the-Command-Line.git) |
 | [**3.2 Searching and Extracting Data from Files**](https://github.com/Jose01000111/3.2-Searching-and-Extracting-Data-from-Files.git) | grep, head/tail, sort, cut, wc, pipes/redirects. | [Lab](https://github.com/Jose01000111/Lab-Instructions-3.2-Searching-and-Extracting-Data-from-Files.git) |
@@ -52,7 +52,7 @@ Each row includes:
 
 ## **Topic 4: The Linux Operating System**
 
-| Objective | Description | Labbing |
+| Objective Notes | Description | Labbing |
 |----------|-------------|---------|
 | [**4.1 Choosing an Operating System**](https://github.com/Jose01000111/4.1-Choosing-an-Operating-System.git) | Windows/macOS/Linux differences, lifecycle. | — |
 | [**4.2 Understanding Computer Hardware**](https://github.com/Jose01000111/4.2-Understanding-Computer-Hardware-.git) | CPUs, RAM, disks, partitions, device naming. | [Lab](https://github.com/Jose01000111/Labbing-Instructions-4.2-Understanding-Computer-Hardware.git)|
@@ -63,7 +63,7 @@ Each row includes:
 
 ## **Topic 5: Security and File Permissions**
 
-| Objective | Description | Labbing |
+| Objective Notes | Description | Labbing |
 |----------|-------------|---------|
 | [**5.1 Basic Security and Identifying User Types**](https://github.com/Jose01000111/5.1---Basic-Security-and-Identifying-User-Types-.git) | Root vs standard users, system accounts. | [Lab](https://github.com/Jose01000111/Lab-Instructions-5.1-Basic-Security-and-Identifying-User-Types.git) |
 | [**5.2 Creating Users and Groups**](https://github.com/Jose01000111/5.2-Creating-Users-and-Groups-.git) | useradd, passwd, groupadd, account files. | [Lab](https://github.com/Jose01000111/Lab-Instructions-5.2-Creating-Users-and-Groups.git) |
